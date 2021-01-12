@@ -1,0 +1,124 @@
+html {
+	background-color: #f6f6f6;
+}
+
+body {
+	background-color: #f6f6f6;
+}
+
+/* I essentially doubled the dimensions of everything, the paiting, and individual block sizes. Same picture, but bigger. I changted the
+block sizes from the original, and it was stated that what I did for the bonus counts. LOL */
+
+#painting { /* Changed from the original 400px by 400px */
+	width: 800px;
+	height: 800px;
+	background-color: #fff4db;
+	margin-top: 60px;
+	margin-right: auto;
+	margin-left: auto;
+	box-shadow: 10px;
+}
+
+#toprow {
+	height: 580px;
+}
+
+#bigbox {
+	width: 580px;
+	height: 580px;
+}
+
+.red {
+	background-color: red;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.black {
+	background-color: black;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.purple {
+	background-color: purple;
+}
+
+.orange {
+	background-color: orange;
+}
+
+.green {
+	background-color: green;
+}
+
+.right {
+	float: right;
+}
+
+#topdivider {
+	width: 20px;
+	height: 580px;
+	float: right;
+}
+
+#topleftcolumn {
+}
+
+.mediumbox {
+	height: 280px;
+	width: 280px;
+}
+
+#divider2 {
+	height: 20px;
+	width: 200px;
+}
+
+#middledivider {
+	height: 20px;
+	width: 800px;
+}
+
+#bottomrightbox {
+	height: 200px;
+	width: 200px;
+	float: left;
+}
+
+#bottomrightdivider {
+	height: 200px;
+	width: 20px;
+	float: left;
+}
+
+#bottommiddlebox {
+	height: 200px;
+	width: 520px;
+	float: left;
+}
+
+#middleboxdivider {
+	height: 200px;
+	width: 20px;
+	float: left;
+}
+
+#smallrightcolumn {
+	float: left;
+}
+
+#smallbox {
+	height: 90px;
+	width: 40px;
+}
+
+#smallboxdivider {
+	height: 20px;
+	width: 40px;
+}
+
